@@ -12,7 +12,7 @@
 
 - (IBAction)clickTheButton:(id)sender;
 
-// COMMIT 5
-@property int commit5;
+// COMMIT 6
+@property int commit6;
 
 @end
