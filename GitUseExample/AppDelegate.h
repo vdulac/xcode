@@ -11,6 +11,6 @@
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-// COMMIT 10
-@property int commit10;
+// COMMIT 12
+@property int commit12;
 @end
